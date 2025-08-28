@@ -24,7 +24,7 @@ export const siteConfig: SiteConfig = {
 	title: "Mizuki",
 	subtitle: "Wellcome To Oops's Blog",
 
-	lang: SITE_LANG,
+	lang: zh_CN,
 
 	themeColor: {
 		hue: 210, // 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
@@ -155,7 +155,7 @@ export const navBarConfig: NavBarConfig = {
 			children: [
 				{
 					name: "GitHub",
-					url: "https://github.com/matsuzaka-yuki/Mizuki",
+					url: "https://github.com/HuntzzZ",
 					external: true,
 					icon: "fa6-brands:github",
 				},
@@ -166,8 +166,8 @@ export const navBarConfig: NavBarConfig = {
 					icon: "fa6-brands:bilibili",
 				},
 				{
-					name: "Gitee",
-					url: "https://gitee.com/matsuzakayuki/Mizuki",
+					name: "Blog",
+					url: "https://blog.opzz.top",
 					external: true,
 					icon: "mdi:git",
 				},
